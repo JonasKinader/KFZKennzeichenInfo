@@ -1,0 +1,6 @@
+@KFZKennzeichenInfo_HostAddress = http://localhost:5294
+
+GET {{KFZKennzeichenInfo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
